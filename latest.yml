@@ -1,8 +1,8 @@
-version: 0.1.5
+version: 0.1.6
 files:
-  - url: iptv-player-0.1.5-setup.exe
-    sha512: XVj4ZgptDqgyYA1bF4xMOXI/s7Q371K8egcPL4/WCHcSoHMD9kIPC206Gt4CrTGPh3dBQOYRPNHrq1xFyXEfbg==
-    size: 92955788
-path: iptv-player-0.1.5-setup.exe
-sha512: XVj4ZgptDqgyYA1bF4xMOXI/s7Q371K8egcPL4/WCHcSoHMD9kIPC206Gt4CrTGPh3dBQOYRPNHrq1xFyXEfbg==
-releaseDate: '2026-05-02T16:26:49.955Z'
+  - url: iptv-player-0.1.6-setup.exe
+    sha512: tDSKVuTRC44bn0mrlpQtFtLuZWolIZxaOWqq4YxPtNoudAZtLYXSD+JZElOJ3l7Gt5JjAXP6QuvoxXDYxQ9q8w==
+    size: 92958363
+path: iptv-player-0.1.6-setup.exe
+sha512: tDSKVuTRC44bn0mrlpQtFtLuZWolIZxaOWqq4YxPtNoudAZtLYXSD+JZElOJ3l7Gt5JjAXP6QuvoxXDYxQ9q8w==
+releaseDate: '2026-05-04T11:55:30.920Z'
